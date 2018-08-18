@@ -3,6 +3,7 @@ Anotações e códigos relacionados ao conteúdo da disciplina Programação e D
 ## Informações Gerais
 
 Prof. [Douglas G. Macharet](http://homepages.dcc.ufmg.br/~doug/teaching.php)
+
 2º Semestre de 2018
 
 ### Ementa
