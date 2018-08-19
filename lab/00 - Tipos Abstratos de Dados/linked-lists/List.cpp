@@ -5,7 +5,7 @@ void List::insertNode (int data) {
   aux->data = data;
   aux->next = nullptr;
 
-  if (head == nullptr) {
+  if (head == nullptr) { // first item
     head = aux;
   } else {
     tail->next = aux;
